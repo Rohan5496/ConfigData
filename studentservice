@@ -11,5 +11,6 @@ mongodb.password=1234
 logging.level.root=INFO
 
 #output to a temp_folder/file
-#Change logfile address here 
-logging.file=/Users/nj/Desktop/logs/studentservice.log
+#Change logfile address here
+logging.file=C:\Users\rohan.bhatia\Desktop\studentservice.log
+
