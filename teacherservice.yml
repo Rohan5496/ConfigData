@@ -1,0 +1,15 @@
+#Server Config
+server.port=8902
+
+#MongoDB Config
+mongodb.host=localhost
+mongodb.port=27017
+mongodb.defaultDatabaseName=demo2
+mongodb.userName=register
+mongodb.password=1234
+
+logging.level.root=INFO
+
+#output to a temp_folder/file
+#change logfile address here
+logging.file=C:\Users\rohan.bhatia\Desktop\teacherservice.log
