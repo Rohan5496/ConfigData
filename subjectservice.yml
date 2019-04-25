@@ -12,4 +12,4 @@ logging.level.root=INFO
 
 #output to a temp_folder/file
 #Change logfile address here
-logging.file=C:\Users\rohan.bhatia\Desktop\subjectservice.yml
+logging.file=C:\Users\rohan.bhatia\Desktop\subjectservice.log
