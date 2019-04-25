@@ -1,5 +1,5 @@
 #Define Server Port
-server.port= 8900
+server.port: 8900
 
 #Define Mongodb Properties
 mongodb.host: localhost
