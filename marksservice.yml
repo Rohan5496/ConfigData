@@ -11,4 +11,4 @@ logging.level.root: INFO
 
 #output to a temp_folder/file
 #Change logfile address here
-logging.file: C:\Users\rohan.bhatia\Desktop\marksservice.yml 
+logging.file: C:\Users\rohan.bhatia\Desktop\marksservice.log
